@@ -1,0 +1,45 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(17, 232, 60, 0.669);
+    line-height: 1.6;
+    color: black;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(32, 87, 53);
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
+header{
+    font-size: large;
+}
+main{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 20px;
+   box-shadow: 0px 20px 50px pink;
+}
+
+section{
+    font-size: 24px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+section h2{
+    margin-bottom: 10px;
+}
+
+.project{
+    padding-bottom: 10 px;
+    margin-bottom: 15px;
+}
